@@ -1,5 +1,5 @@
 # Project details
-This project functions as a backend project developed in Laravel REST API with a PostgreSQL database.
+This project functions as a backend project developed in Laravel with a PostgreSQL database to generate REST API services that are used by a project developed in Angular. [Frontend](https://github.com/dev-shelvin-batista/frontend-angular-store)
 
 | |Version |
 |----------------|-------------------------------|
